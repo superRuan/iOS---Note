@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import <AVFoundation/AVFoundation.h>
-
+//视频捕捉学习
 @interface ViewController ()<AVCaptureFileOutputRecordingDelegate>
 
 @property (nonatomic, strong) AVCaptureSession			 *captureSession;			/**< 捕捉会话 */
